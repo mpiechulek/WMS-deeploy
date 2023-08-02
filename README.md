@@ -1,2 +1,2 @@
 # WMS-deeploy
-https://mpiechulek.github.io/WMS-deeploy/login
+https://mpiechulek.github.io/WMS-deeploy
